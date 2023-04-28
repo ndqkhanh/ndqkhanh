@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ndqkhanh
-- 👀 I’m interested in reading books
+- 👀 I’m interested in coding and reading books
 - 🌱 I’m currently learning Information technology in University Of Science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me khanhndq2002@gmail.com
 
 <!---
